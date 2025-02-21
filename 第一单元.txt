@@ -1,0 +1,67 @@
+		第一阶段
+you : 你
+like : 喜欢
+English : 英语
+I : 我
+Chinese : 中文
+book : 书
+your : 你的
+student : 学生
+teacher : 老师
+my : 我的
+mother : 母亲
+and : 和
+father : 父亲
+cat : 猫
+dog : 狗
+
+*-*-*额外扩展*-*-*
+Hello : 你好
+
+		第二阶段
+
+small : 小；小的
+house : 房子
+big : 大；大的
+phone : 手机
+room : 房间
+computer : 电脑
+green : 绿色
+red : 红色
+white : 白色
+blue : 蓝色
+black : 黑色
+their : 他/她们的
+they : 他/她们
+our : 我们的
+we : 我们
+
+*-*-*额外扩展*-*-*
+yellow : 黄色
+he : 他
+she : 她
+his : 他的
+her : 她的
+
+		第三阶段
+
+drink : 喝
+tea :  茶
+water : 水
+juice : 果汁
+coffee : 咖啡
+more : 更多
+less : 更少
+cold : 冷
+hot : 热
+or : 还是；或是
+long : 长的
+short : 短的；矮小
+spring : 春天
+summer : 夏天
+fall : 秋天
+winter : 冬天
+is : 很；是；吗
+
+*-*-*额外扩展*-*-*
+eating : 吃
