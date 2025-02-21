@@ -1,0 +1,67 @@
+		第一阶段
+you : 
+like : 
+English : 
+I : 
+Chinese : 
+book : 
+your : 
+student : 
+teacher : 
+my : 
+mother : 
+and : 
+father : 
+cat : 
+dog : 
+
+*-*-*额外扩展*-*-*
+Hello : 
+
+		第二阶段
+
+small : 
+house : 
+big : 
+phone : 
+room : 
+computer : 
+green : 
+red : 
+white : 
+blue : 
+black : 
+their : 
+they : 
+our : 
+we : 
+
+*-*-*额外扩展*-*-*
+yellow : 
+he : 
+she : 
+his : 
+her : 
+
+		第三阶段
+
+drink : 
+tea :  
+water : 
+juice : 
+coffee : 
+more : 
+less : 
+cold : 
+hot : 
+or : 
+long : 
+short : 
+spring : 
+summer : 
+fall : 
+winter : 
+is : 
+
+*-*-*额外扩展*-*-*
+eating : 
